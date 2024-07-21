@@ -1,0 +1,1 @@
+@echo off & javac -d bin src/game/*.java & pause
